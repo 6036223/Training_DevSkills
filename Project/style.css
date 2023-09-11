@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(65, 65, 145);
+    font-family: Comfortaa, sans-serif;
+}
+
+.cookie{
+    display: block;
+    margin-top: 240px;
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration:none;
+    -webkit-transition: 1s;
+}
+
+.cookie:hover{
+    transform: scale(1.05);
+    text-decoration:none;
+}
+
+.teller{
+    background-color: #fff;
+    text-shadow: rgb(0, 0, 0) 1px 0 10px;
+    font-size: 30;
+    opacity: calc(2);
+    opacity: 1;
+}
